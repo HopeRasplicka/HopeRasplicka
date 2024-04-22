@@ -6,7 +6,8 @@ Visit the [password-manager repository](https://github.com/HopeRasplicka/passwor
 
 visit the [port-scanner repository](https://github.com/HopeRasplicka/port-scanner) 
 
-visit the [exploratory-data-analysis]
+visit the [exploratory-data-analysis](https://github.com/HopeRasplicka/exploratory-data-analysis)
+
 
 <h2>  Certifications</h2> 
 
